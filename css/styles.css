@@ -1,0 +1,39 @@
+.header{
+    background-color: slateblue;
+}
+.btn{
+    margin: 20px;
+}
+.publicidad{
+    margin: 20px;
+}
+
+img{
+    margin:10px;
+}
+
+@media (max-width: 568px) {
+    .esliza {
+      height: 300px;
+    }
+  }
+@media (min-width: 588px) {
+    .esliza {
+    height: 500px;
+    }
+}
+@media (min-width: 778px) {
+    .esliza {
+    height: 700px;
+    }
+}
+@media (min-width: 960px) {
+    .esliza {
+    height: 800px;
+    }
+}
+@media (min-width: 1200px) {
+    .esliza {
+    height: 900px;
+    }
+}
